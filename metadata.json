@@ -1,0 +1,5 @@
+{
+  "name": "HomeIQ",
+  "description": "AI-powered home management platform prototype",
+  "requestFramePermissions": ["microphone"]
+}
